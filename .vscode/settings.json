@@ -61,5 +61,7 @@
   "i18n-ally.localesPaths": [
     "src/locales"
   ],
-  "i18n-ally.keystyle": "nested"
+  "i18n-ally.keystyle": "nested",
+  "genieai.openai.organization": "org-5ZvZMqeRbYMwLUHvLG66K2P9",
+  "genieai.openai.temperature": 0.5
 }

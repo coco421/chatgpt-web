@@ -32,7 +32,7 @@ spec:
             - name: API_REVERSE_PROXY
               value: https://ai.fakeopen.com/api/conversation
             - name: AUTH_SECRET_KEY
-              value: '123456'
+              value: '830421'
             - name: TIMEOUT_MS
               value: '60000'
             - name: SOCKS_PROXY_HOST
